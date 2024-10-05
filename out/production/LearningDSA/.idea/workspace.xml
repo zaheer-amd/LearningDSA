@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="Started with Java Recursion.">
-      <change beforePath="$PROJECT_DIR$/RecursionPractice/Recursion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionPractice/Recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/CountFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingJava/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCollectionsPractice/JavaList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCollectionsPractice/JavaList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCollectionsPractice/JavaStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="CollectionsJava" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,19 +63,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.JavaList.executor": "Run",
-    "Application.NumbersCheck.executor": "Run",
-    "Application.Pattern20.executor": "Run",
-    "Application.Recursion1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "CollectionsJava",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/zahee/GitRepos/LearningDSA/PatternMatching"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JavaList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;JavaSorting&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zahee/GitRepos/LearningDSA/PatternMatching&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zahee\GitRepos\LearningDSA\PatternMatching" />
@@ -117,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728128577483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Started with Java Recursion.">
+      <option name="closed" value="true" />
+      <created>1728129029090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728129029090</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Started with Java Recursion.">
+      <option name="closed" value="true" />
+      <created>1728129381730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728129381730</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
