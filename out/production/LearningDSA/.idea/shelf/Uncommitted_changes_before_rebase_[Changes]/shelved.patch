@@ -1,0 +1,14 @@
+Index: JavaCollectionsPractice/JavaStack.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/JavaCollectionsPractice/JavaStack.java b/JavaCollectionsPractice/JavaStack.java
+new file mode 100644
+--- /dev/null	(date 1728031274359)
++++ b/JavaCollectionsPractice/JavaStack.java	(date 1728031274359)
+@@ -0,0 +1,4 @@
++package JavaCollectionsPractice;
++
++public class JavaStack {
++}
