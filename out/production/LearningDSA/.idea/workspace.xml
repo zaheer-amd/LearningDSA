@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="Started with Java Collections.">
-      <change afterPath="$PROJECT_DIR$/JavaCollectionsPractice/JavaList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCollectionsPractice/JavaStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningDSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningDSA/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="Started with Java Recursion.">
+      <change beforePath="$PROJECT_DIR$/RecursionPractice/Recursion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionPractice/Recursion1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.JavaList.executor": "Run",
+    "Application.NumbersCheck.executor": "Run",
     "Application.Pattern20.executor": "Run",
+    "Application.Recursion1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "CollectionsJava",
@@ -109,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728030720723</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started with Java Recursion.">
+      <option name="closed" value="true" />
+      <created>1728128577483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728128577483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed the Pattern Matching problems in Strivers List." />
     <MESSAGE value="Started with Java Collections." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started with Java Collections." />
+    <MESSAGE value="Started with Java Recursion." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started with Java Recursion." />
   </component>
 </project>
