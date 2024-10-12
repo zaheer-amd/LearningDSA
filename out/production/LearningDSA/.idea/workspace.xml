@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="Started with Java Recursion.">
-      <change beforePath="$PROJECT_DIR$/SortingJava/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingJava/SelectionSort.java" afterDir="false" />
+    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="Started with Soring Methods.">
+      <change afterPath="$PROJECT_DIR$/SortingJava/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningDSA/SortingJava/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningDSA/SortingJava/SelectionSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +63,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
     "Application.CountFrequency.executor": "Run",
     "Application.CountFrequencyandFindMinorMax.executor": "Run",
     "Application.JavaList.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
     "Application.Pattern20.executor": "Run",
     "Application.Recursion1.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "JavaSorting",
@@ -144,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728134015310</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Started with Java Recursion.">
+      <option name="closed" value="true" />
+      <created>1728459518599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728459518599</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Started with Soring Methods.">
+      <option name="closed" value="true" />
+      <created>1728462562323</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728462562323</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +193,7 @@
     <MESSAGE value="Completed the Pattern Matching problems in Strivers List." />
     <MESSAGE value="Started with Java Collections." />
     <MESSAGE value="Started with Java Recursion." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started with Java Recursion." />
+    <MESSAGE value="Started with Soring Methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started with Soring Methods." />
   </component>
 </project>
