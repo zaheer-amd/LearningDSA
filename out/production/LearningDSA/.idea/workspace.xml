@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="BubbleSort">
-      <change afterPath="$PROJECT_DIR$/TcsIPA/courseProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TcsIPA/courseProgram.txt" afterDir="false" />
+    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="TCS IPA Preparation">
+      <change beforePath="$PROJECT_DIR$/TcsIPA/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/TcsIPA/Program3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,24 +60,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountFrequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountFrequencyandFindMinorMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumbersCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;JavaSorting&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zahee/GitRepos/LearningDSA/PatternMatching&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.CountFrequency.executor": "Run",
+    "Application.CountFrequencyandFindMinorMax.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.JavaList.executor": "Run",
+    "Application.NumbersCheck.executor": "Run",
+    "Application.Pattern20.executor": "Run",
+    "Application.Program2.executor": "Run",
+    "Application.Program3.executor": "Run",
+    "Application.Recursion1.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.courseProgram.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "JavaSorting",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/zahee/GitRepos/LearningDSA/PatternMatching"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zahee\GitRepos\LearningDSA\PatternMatching" />
@@ -180,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728746726749</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1729607841884</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607841884</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1729607973506</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607973506</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +240,7 @@
     <MESSAGE value="Started with Java Recursion." />
     <MESSAGE value="Started with Soring Methods." />
     <MESSAGE value="BubbleSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="BubbleSort" />
+    <MESSAGE value="TCS IPA Preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="TCS IPA Preparation" />
   </component>
 </project>
