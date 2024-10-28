@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="Started with Java Recursion.">
-      <change beforePath="$PROJECT_DIR$/SortingJava/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingJava/SelectionSort.java" afterDir="false" />
+    <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="TCS IPA Preparation">
+      <change beforePath="$PROJECT_DIR$/TcsIPA/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/TcsIPA/Program3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +62,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
     "Application.CountFrequency.executor": "Run",
     "Application.CountFrequencyandFindMinorMax.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.JavaList.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
     "Application.Pattern20.executor": "Run",
+    "Application.Program2.executor": "Run",
+    "Application.Program3.executor": "Run",
     "Application.Recursion1.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.courseProgram.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "JavaSorting",
@@ -144,10 +150,63 @@
       <option name="project" value="LOCAL" />
       <updated>1728134015310</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Started with Java Recursion.">
+      <option name="closed" value="true" />
+      <created>1728459518599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728459518599</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Started with Soring Methods.">
+      <option name="closed" value="true" />
+      <created>1728462562323</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728462562323</updated>
+    </task>
+    <task id="LOCAL-00009" summary="BubbleSort">
+      <option name="closed" value="true" />
+      <created>1728744694167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728744694167</updated>
+    </task>
+    <task id="LOCAL-00010" summary="BubbleSort">
+      <option name="closed" value="true" />
+      <created>1728746726749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728746726749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1729607841884</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607841884</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1729607973506</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607973506</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c297ac73-37da-4943-8ef7-6faa31129f95" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -167,6 +226,11 @@
             </State>
           </value>
         </entry>
+        <entry key="c297ac73-37da-4943-8ef7-6faa31129f95">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
@@ -174,6 +238,9 @@
     <MESSAGE value="Completed the Pattern Matching problems in Strivers List." />
     <MESSAGE value="Started with Java Collections." />
     <MESSAGE value="Started with Java Recursion." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started with Java Recursion." />
+    <MESSAGE value="Started with Soring Methods." />
+    <MESSAGE value="BubbleSort" />
+    <MESSAGE value="TCS IPA Preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="TCS IPA Preparation" />
   </component>
 </project>
