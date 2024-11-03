@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="TCS IPA Preparation">
-      <change afterPath="$PROJECT_DIR$/PatternMatching/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/InPlaceSwapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/Leetcode66.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +66,11 @@
     "Application.BubbleSort.executor": "Run",
     "Application.CountFrequency.executor": "Run",
     "Application.CountFrequencyandFindMinorMax.executor": "Run",
+    "Application.FrequencyCheck.executor": "Run",
+    "Application.InPlaceSwapping.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.JavaList.executor": "Run",
+    "Application.Leetcode66.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
     "Application.Pattern20.executor": "Run",
     "Application.Practice.executor": "Run",
@@ -207,7 +211,47 @@
       <option name="project" value="LOCAL" />
       <updated>1729609804864</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730110191659</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730110191659</updated>
+    </task>
+    <task id="LOCAL-00015" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730110206844</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730110206844</updated>
+    </task>
+    <task id="LOCAL-00016" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730111045840</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730111045840</updated>
+    </task>
+    <task id="LOCAL-00017" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730111621434</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730111621434</updated>
+    </task>
+    <task id="LOCAL-00018" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730111632237</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730111632237</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
