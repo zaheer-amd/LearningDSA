@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="TCS IPA Preparation">
-      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/InPlaceSwapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/Leetcode66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/CharRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/CountPrimeDigitsInANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningDSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningDSA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +64,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.CharRepeat.executor": "Run",
     "Application.CountFrequency.executor": "Run",
     "Application.CountFrequencyandFindMinorMax.executor": "Run",
+    "Application.CountPrimeDigitsInANumber.executor": "Run",
     "Application.FrequencyCheck.executor": "Run",
     "Application.InPlaceSwapping.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -74,6 +78,7 @@
     "Application.NumbersCheck.executor": "Run",
     "Application.Pattern20.executor": "Run",
     "Application.Practice.executor": "Run",
+    "Application.Practice2.executor": "Run",
     "Application.Program2.executor": "Run",
     "Application.Program3.executor": "Run",
     "Application.Recursion1.executor": "Run",
@@ -83,7 +88,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "JavaSorting",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/zahee/GitRepos/LearningDSA/PatternMatching"
+    "last_opened_file_path": "C:/Users/zahee/GitRepos/LearningDSA/PatternMatching",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -251,7 +257,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730111632237</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730646968572</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730646968572</updated>
+    </task>
+    <task id="LOCAL-00020" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730659855773</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730659855773</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
