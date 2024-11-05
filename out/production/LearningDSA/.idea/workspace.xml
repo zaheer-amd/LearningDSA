@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d4f777-19f6-4536-a5ce-eed7ce97fa42" name="Changes" comment="TCS IPA Preparation">
-      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/CharRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotClassifiedJavaPrograms/CountPrimeDigitsInANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TcsIPA/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningDSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningDSA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +66,8 @@
     "Application.ArmstrongNumber.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.CharRepeat.executor": "Run",
+    "Application.CharaAtOddIndex.executor": "Run",
+    "Application.ConsecutiveVowelsInaSentence.executor": "Run",
     "Application.CountFrequency.executor": "Run",
     "Application.CountFrequencyandFindMinorMax.executor": "Run",
     "Application.CountPrimeDigitsInANumber.executor": "Run",
@@ -75,6 +76,7 @@
     "Application.InsertionSort.executor": "Run",
     "Application.JavaList.executor": "Run",
     "Application.Leetcode66.executor": "Run",
+    "Application.MoveZeroesToEnd.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
     "Application.Pattern20.executor": "Run",
     "Application.Practice.executor": "Run",
@@ -83,10 +85,11 @@
     "Application.Program3.executor": "Run",
     "Application.Recursion1.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.courseProgram.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "JavaSorting",
+    "git-widget-placeholder": "#11 on JavaSorting",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/zahee/GitRepos/LearningDSA/PatternMatching",
     "settings.editor.selected.configurable": "editor.preferences.completion"
@@ -273,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730659855773</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730734870094</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730734870094</updated>
+    </task>
+    <task id="LOCAL-00022" summary="TCS IPA Preparation">
+      <option name="closed" value="true" />
+      <created>1730823852317</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730823852317</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
